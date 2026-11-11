@@ -4,9 +4,9 @@ VoltVision is a React and FastAPI application for predicting net electrical outp
 
 ## Visual preview
 
-The repository includes the homepage hero artwork, but does not currently include a captured application screenshot.
+An overview of VoltVision's homepage, featuring its intelligent energy prediction platform.
 
-![VoltVision power plant hero artwork](Frontend/public/voltvision-hero.png)
+![VoltVision power plant hero artwork](Frontend/public/voltvision-hero-section.png)
 
 ## Features
 
